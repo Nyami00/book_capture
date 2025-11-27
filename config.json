@@ -1,0 +1,19 @@
+{
+  "total_pages": 208,
+  "start_page": 1,
+  "capture_region": {
+    "x": 1564,
+    "y": 186,
+    "width": 1100,
+    "height": 1400
+  },
+  "turn_method": "right",
+  "turn_delay": 0.5,
+  "click_position": {
+    "x": 800,
+    "y": 400
+  },
+  "output_dir": "output",
+  "output_filename": "book.pdf",
+  "delete_screenshots": false
+}
